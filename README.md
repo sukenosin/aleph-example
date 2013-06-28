@@ -15,6 +15,6 @@ First aleph example.
 
 ## License
 
-Copyright © 2013 S.Asahara
+Copyright 2013 S.Asahara
 
 Distributed under the Eclipse Public License, the same as Clojure.

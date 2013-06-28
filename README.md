@@ -5,11 +5,11 @@ First aleph example.
 ## Usage
 
 - on repl
-	> (use 'aleph-example.core)
-	> (start-server 8888)
+　　　　(use 'aleph-example.core)  
+　　　　(start-server 8888)
 
 - on terminal
-	> telnet localhost 8888
+　　　　telnet localhost 8888
 
 ## License
 

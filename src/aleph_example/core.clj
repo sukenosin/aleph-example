@@ -31,7 +31,7 @@
 ;;;;;;;
 ;; usage
 ;; - on repl
-;;  user=> (use 'aleph_example.core)
+;;  user=> (use 'aleph-example.core)
 ;;  user=> (start-server 8888)
 ;;
 ;; - on terminal
